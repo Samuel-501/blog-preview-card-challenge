@@ -1,0 +1,57 @@
+
+/* body style */
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+
+/* container styling  */
+.container{
+    background: white;
+    width: 27%;
+    padding-top: 15px;
+    padding-left: 29px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-left: 35%;
+    margin-top: 11%;
+    font-family: "Figtree", sans-serif;
+    border-right: 10px solid black;
+    border-bottom: 10px solid black;
+}
+
+/* image div */
+.image img{
+    border-radius: 10px;
+}
+
+/* learning div */
+.Learning{
+    background: hsl(47, 88%, 63%);
+    width: 20%;
+    font-weight: bold;
+}
+#p2{
+    font-size: 15px;
+}
+#p3{
+    font-weight: bold;
+    font-size: 23px;
+}
+#p3:hover{
+    color: hsl(47, 88%, 63%);
+}
+#p4{
+    color: hsl(0, 0%, 42%)
+}
+/* footer div style */
+.footer{
+    display: flex;
+    gap: 10px;
+}
+.footer img{
+    border-radius: 70%;
+}
+.footer p{
+    font-weight: bold;
+    font-size: 15px;
+}
